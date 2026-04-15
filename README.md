@@ -40,7 +40,8 @@ This project is an Excel-based data analysis of sales performance. It focuses on
 ---
 
 ## 📷 Preview
-*(Add screenshots of your Excel dashboard here)*
+
+<img width="432" height="275" alt="image" src="https://github.com/user-attachments/assets/db5b95a2-1afa-46c0-90ea-7eb7de8fab50" />
 
 ---
 
